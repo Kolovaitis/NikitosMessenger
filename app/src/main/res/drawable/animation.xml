@@ -1,0 +1,12 @@
+<animation-list
+    android:id="@+id/selected"
+    android:oneshot="false"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/frame0001" android:duration="200" />
+    <item android:drawable="@drawable/frame0002" android:duration="200" />
+    <item android:drawable="@drawable/frame0003" android:duration="200" />
+    <item android:drawable="@drawable/frame0004" android:duration="200" />
+
+
+</animation-list>
