@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Nikitos messenger</string>
+   <string name="no_internet">No internet connection</string>
+    <string name="solution">Please connect your device to internet</string>
+    <string name="exit">exit</string>
+    <string name="rerun">rerun</string>
+    <string name="welcome">Welcome to Socket.IO Chat –</string>
+    <string name="there">there are </string>
+    <string name="participants"> participants</string>
+    <string name="joined"> joined</string>
+    <string name="left"> left</string>
 </resources>
